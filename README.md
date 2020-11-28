@@ -26,6 +26,8 @@
 
 ## Neural Data Analysis
 
++ [Case Studies in Neural Data Analysis, by Mark Kramer and Uri Eden](https://elifesciences.org/labs/f779833b/python-for-the-practicing-neuroscientist-an-online-educational-resource)
+
 + [Neural Signal Processing course by Richard Gao](https://github.com/rdgao/COGS118C)
 
 + [Vandermeer Lab resources](http://www.vandermeerlab.org/)
